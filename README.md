@@ -4,7 +4,7 @@ Bem-vindo ao repositório do projeto integrador da Proz Educação! Neste projet
 
 ## Visão Geral do Projeto
 
-O objetivo deste projeto é desenvolver um site para a pizzaria "Pizza na Nuvem" que permita aos usuários visualizar nossa história, cardápio de pizzas, ter nossas redes sociais para entrar em contato. 
+O objetivo deste projeto é desenvolver um site para a pizzaria "Pizza na Nuvem" que permita aos usuários visualizar nossa história, cardápio de pizzas, ter nossas redes sociais para entrar em contato e nossa galeria de fotos. 
 
 ## Funcionalidades Principais
 
