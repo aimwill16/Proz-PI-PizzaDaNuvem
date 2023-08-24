@@ -16,4 +16,8 @@ O objetivo deste projeto é desenvolver um site para a pizzaria "Pizza na Nuvem"
     
 4.  **Contato:** Uma página exclusiva com nossos contatos e redes sociais para nossos clientes ligarem e pedirem muita pizza.
 
-5. **Galeria:** Uma página exclusiva para nossas melhores fotos mostrando nosso ambiente e nossas deliciosas pizzas. 
+5. **Galeria:** Uma página exclusiva para nossas melhores fotos mostrando nosso ambiente e nossas deliciosas pizzas.
+
+## Layoult das div
+
+https://www.figma.com/file/zhtQpiWeZfeSt0TsjXP55Y/PI-(Copy)?type=design&node-id=0%3A1&mode=design&t=73V2ISEOGwddR6Te-1
